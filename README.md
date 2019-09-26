@@ -1,7 +1,7 @@
 # awesome-EntityLinking-papers (Medical)
 
 ## Papers
-- **Zero-Shot Entity Linking by Reading Entity Descriptions** (2019), L. Logeswaran† et al. [[pdf](https://www.aclweb.org/anthology/P19-1335)] [[code](https://github.com/lajanugen/zeshel)] 
+- **Zero-Shot Entity Linking by Reading Entity Descriptions** (2019), L. Logeswaran et al. [[pdf](https://www.aclweb.org/anthology/P19-1335)] [[code](https://github.com/lajanugen/zeshel)] 
 
 
 - **Attention-Based Joint Entity Linking with Entity Embedding** (2019), C. Liu et al. [[pdf](https://www.mdpi.com/2078-2489/10/2/46/pdf)]
