@@ -9,5 +9,5 @@
 
 ## Competition
 
-- **N2C2**:Task3 [[Link](https://portal.dbmi.hms.harvard.edu/projects/n2c2-2019-t3/)]
-- **CCKS**:Task2 [[Link](http://www.ccks2019.cn/)](Chinese)
+- **N2C2**:2019 Task3 [[Link](https://portal.dbmi.hms.harvard.edu/projects/n2c2-2019-t3/)]
+- **CCKS**:2019 Task2 [[Link](http://www.ccks2019.cn/)](Chinese)
