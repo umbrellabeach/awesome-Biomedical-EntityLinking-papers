@@ -24,6 +24,10 @@
 
 - **Explainable Prediction of Medical Codes from Clinical Text** (2018), J. Mullenbach et al. [[pdf](https://arxiv.org/pdf/1802.05695.pdf)]
 
+## Conference
+- **ACL**
+- **EMNLP**
+
 ## Competition
 
 - **N2C2**:2019 Task3 [[Link](https://portal.dbmi.hms.harvard.edu/projects/n2c2-2019-t3/)]
