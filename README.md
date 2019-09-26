@@ -2,10 +2,12 @@
 
 ## Papers
 - **Zero-Shot Entity Linking by Reading Entity Descriptions** (2019), L. Logeswaran et al. [[pdf](https://www.aclweb.org/anthology/P19-1335)] [[code](https://github.com/lajanugen/zeshel)] 
-- **Boosting Entity Linking Performance by Leveraging Unlabeled Documents** (2019), P. Le et al. [[pdf](https://arxiv.org/pdf/1905.07189)]
 
-- **Distant Learning for Entity Linking with Automatic Noise Detection** (2019), P. Le et al. [[pdf](https://arxiv.org/pdf/1906.01250)]
+- **A Neural Approach to Entity Linking on Wikidata** (2019), A. Cetoli et al. [[pdf](https://link.springer.com/chapter/10.1007/978-3-030-15719-7_10)] [[code](https://github.com/ContextScout/ned-graphs)] 
 
+- **Boosting Entity Linking Performance by Leveraging Unlabeled Documents** (2019), P. Le et al. [[pdf](https://arxiv.org/pdf/1906.01250)]
+
+- **Distant Learning for Entity Linking with Automatic Noise Detection** (2019), P. Le et al. [[pdf](https://arxiv.org/pdf/1905.07189)]
 
 - **Attention-Based Joint Entity Linking with Entity Embedding** (2019), C. Liu et al. [[pdf](https://www.mdpi.com/2078-2489/10/2/46/pdf)]
 - **Entity Alignment between Knowledge Graphs Using Attribute Embeddings** (2019), BD. Trisedya et al. [[pdf](https://www.aaai.org/ojs/index.php/AAAI/article/download/3798/3676)]
