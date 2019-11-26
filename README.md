@@ -2,6 +2,8 @@
 
 ## Papers
 
+- **LATTE: Latent Type Modeling for Biomedical Entity Linking** (2019), Ming Zhu et al. [[pdf](https://arxiv.org/pdf/1911.09787.pdf)]
+
 - **BERT-based Ranking for Biomedical Entity Normalization** (2019), Z. Ji et al. [[pdf](https://arxiv.org/pdf/1908.03548)]
 
 - **Zero-Shot Entity Linking by Reading Entity Descriptions** (2019), L. Logeswaran et al. [[pdf](https://www.aclweb.org/anthology/P19-1335)] [[code](https://github.com/lajanugen/zeshel)] 
