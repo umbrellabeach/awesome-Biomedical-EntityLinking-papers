@@ -31,4 +31,5 @@
 ## Competition
 
 - **N2C2**:2019 Task3 [[Link](https://portal.dbmi.hms.harvard.edu/projects/n2c2-2019-t3/)]
-- **CCKS**:2019 Task2 [[Link](http://www.ccks2019.cn/)](Chinese)
+- **CCKS**:2019 Task2 [[Link](http://www.ccks2019.cn/)](in Chinese)
+- **CHIP**:2019 Task1 [[Link](http://cips-chip.org.cn/evaluation)](in Chinese)
