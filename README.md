@@ -1,4 +1,4 @@
-# awesome-EntityLinking-papers (Medical)
+# awesome-Biomedical-EntityLinking-papers
 
 ## Papers
 
